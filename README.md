@@ -1,2 +1,3 @@
-# devops-repo
-Repository to store all devops related projects
+# Cloud Devops Repo
+
+Repository to store all cloud devops related sample projects
