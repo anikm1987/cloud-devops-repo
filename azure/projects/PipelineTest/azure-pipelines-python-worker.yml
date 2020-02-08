@@ -13,7 +13,7 @@ variables:
   dockerRegistryServiceConnection: '9f899e2-habs-421d-stafdt-53d3203xAa89'
   imageRepository: 'testaniket'
   containerRegistry: 'dockerreg.azurecr.io'
-  dockerfilePath: '$(Build.SourcesDirectory)/WorkerNodeProject/worker-python-cli/Dockerfile'
+  dockerfilePath: '$(Build.SourcesDirectory)/WorkerNodeProject/python-cli/Dockerfile'
   tag: '$(Build.BuildId)'
 
   # Agent VM image name
